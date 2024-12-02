@@ -178,7 +178,7 @@ export default defineNuxtConfig({
     prismic: {},
   },
   nitro: {
-    preset: 'cloudflare',
+    preset: 'node',
   },
   eslint: {
     checker: false,
